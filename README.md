@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+You can see here the programme curriculum of DSE 
+
+<img width="854" alt="1" src="https://github.com/user-attachments/assets/155beca8-cbe9-4759-837d-bf2c7313aff6">
+
+<img width="854" alt="2" src="https://github.com/user-attachments/assets/09fb06df-f880-4548-989a-5fe0e694af7d">
+
 <!--
 **Polito-DSE/Polito-DSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
